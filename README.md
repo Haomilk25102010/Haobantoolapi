@@ -1,2 +1,2 @@
 # Haobantoolapi
-Đây là 1 trình mã hoá xáo trộn mã nguồn php
+usage: php main.php <input> <output>
